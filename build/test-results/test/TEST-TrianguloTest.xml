@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TrianguloTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-11-01T13:05:37" hostname="ROSSI" time="0.005">
+  <properties/>
+  <testcase name="SomaDeDoisLadosMenorQueTerceiroLado" classname="TrianguloTest" time="0.002"/>
+  <testcase name="TrianguloEquilateroValido" classname="TrianguloTest" time="0.001"/>
+  <testcase name="UmValorZero" classname="TrianguloTest" time="0.0"/>
+  <testcase name="TrianguloEscalenoValido" classname="TrianguloTest" time="0.001"/>
+  <testcase name="SomaDeDoisLadosIguaisAoTerceiroLado" classname="TrianguloTest" time="0.0"/>
+  <testcase name="UmValorNegativo" classname="TrianguloTest" time="0.0"/>
+  <testcase name="TodosValorZero" classname="TrianguloTest" time="0.0"/>
+  <testcase name="TrianguloIsoscelesValido" classname="TrianguloTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
